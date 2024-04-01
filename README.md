@@ -80,5 +80,5 @@
 - `hr`
 
 ## block vs inline
-- block : <p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <ul>, <ol>, <hr /> , <div>
-- inline : <b>, <i>, <em>, <strong>, <sup>, <sub>, <small>, <li>, <ins>, <del>,
+- block :` <p>, <h1>, <h2>, <h3>, <h4>, <h5>, <h6>, <ul>, <ol>, <hr /> , <div>`
+- inline :` <b>, <i>, <em>, <strong>, <sup>, <sub>, <small>, <li>, <ins> <del>`
