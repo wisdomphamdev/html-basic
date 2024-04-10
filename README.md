@@ -27,7 +27,7 @@
 - internal
 - external
 ## mức độ ưu tiên css
->  inline -> id -> class -> thẻ 
+>  inline -> id -> class -> thẻ -> *
 
 ```
 <!-- inline -->
